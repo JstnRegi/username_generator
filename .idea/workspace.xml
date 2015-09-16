@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b62558da-5350-47ae-b11c-4d1f0eb6afb6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/username_generator.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/username.rb" afterPath="$PROJECT_DIR$/username.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/warmup.rb" afterPath="$PROJECT_DIR$/warmup.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="username_generator.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="username.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="username.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/username.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16448598">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state vertical-scroll-proportion="-9.259259">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="username_spec.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="username_spec.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/username_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+            <state vertical-scroll-proportion="-0.27985415">
+              <caret line="113" column="70" selection-start-line="113" selection-start-column="70" selection-end-line="113" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -229,18 +223,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/username_spec.rb">
+    <entry file="file://$PROJECT_DIR$/username.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        <state vertical-scroll-proportion="-9.259259">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/username.rb">
+    <entry file="file://$PROJECT_DIR$/spec/username_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16448598">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state vertical-scroll-proportion="-0.27985415">
+          <caret line="113" column="70" selection-start-line="113" selection-start-column="70" selection-end-line="113" selection-end-column="70" />
           <folding />
         </state>
       </provider>
